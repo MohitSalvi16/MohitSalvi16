@@ -6,27 +6,30 @@
 
 ### AI/ML Engineer • Full Stack Developer • LLMs • Cloud Native • Open Source
 
-<p>
+<p align="center">
 Building intelligent AI systems, scalable cloud-native applications, and developer tools that solve real-world problems.
 </p>
 
-<p>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<p align="center">
+Passionate about Large Language Models, AI Agents, Kubernetes, Cloud Infrastructure, and building software that creates real impact.
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/mohit-salvi-5a38411a5/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://medium.com/@YOUR_MEDIUM">
+<a href="https://medium.com/@tech-logs" target="_blank">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
-<a href="https://github.com/MohitSalvi16">
+<a href="https://github.com/MohitSalvi16" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:salvimohit08@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
 </div>
@@ -35,10 +38,121 @@ Building intelligent AI systems, scalable cloud-native applications, and develop
 
 ## 🚀 About Me
 
-- 🤖 AI/ML Engineer passionate about **LLMs, AI Agents, and Generative AI**
-- ☁️ Building **cloud-native applications** using Kubernetes, Docker, and AWS
-- 💻 Experienced in **Python, React, TypeScript, Node.js, and FastAPI**
-- 🔍 Open Source Contributor and technical writer sharing insights on AI and system design
-- 🌱 Currently exploring **Agentic AI, LangGraph, MCP, and Multi-Agent Systems**
+- 🤖 AI/ML Engineer focused on **LLMs, AI Agents, RAG, and Generative AI**
+- ☁️ Building **cloud-native applications** using Kubernetes, Docker, AWS, and modern DevOps practices
+- 💻 Experienced in **Python, React, TypeScript, Node.js, FastAPI, and PostgreSQL**
+- 🛠️ Passionate about designing scalable AI-powered applications and developer tools
+- 🌱 Currently exploring **LangGraph, MCP, Multi-Agent Systems, and Production AI**
+- ✍️ Technical writer sharing knowledge on AI, Kubernetes, and System Design through Medium
+- ❤️ Open Source Contributor who enjoys building tools that help developers
 
-> *"Building technology that creates real-world impact."*
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+<p>
+LLMs • LangChain • LangGraph • Hugging Face • RAG • Vector Databases • MCP
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,linux,git,postgres,mysql" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohitSalvi16&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitSalvi16&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohitSalvi16&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Featured Projects
+
+- 🚀 **SynergyRCA** — AI-powered Kubernetes Root Cause Analysis using LLMs
+- 💬 **LLM Chat Application** — RAG-powered chatbot with LangChain
+- 🔧 **Quay Tag Parameter Plugin** — Official Jenkins Plugin
+- 📄 **AI Resume Reviewer**
+- 🤖 **n8n AI Automation Workflows**
+- 🛠️ **Developer Tools & Utilities**
+
+---
+
+## ✍️ Latest Articles
+
+- Evaluation of Fine-Tuned TinyLlama on Kubernetes Instructions
+- NGINX Explained Simply: The Web Server That Powers the Internet
+- What is a Vector Database?
+- LangGraph Tutorial
+- System Design Articles
+
+➡️ **Read more:** https://medium.com/@tech-logs
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mohit-salvi-5a38411a5/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@tech-logs">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://github.com/MohitSalvi16">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:salvimohit08@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+> **"The best way to predict the future is to build it."**
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+
+</div>
