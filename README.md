@@ -2,6 +2,8 @@
 
 # Hi there, I'm Mohit Salvi
 
+<img src="./assets/binary-profile.png" alt="Mohit Salvi" width="220"/>
+
 ### AI/ML Engineer • Full Stack Developer • LLMs • Cloud Native • Open Source
 
 <p align="center">
@@ -13,21 +15,23 @@ Passionate about Large Language Models, AI Agents, Kubernetes, Cloud Infrastruct
 </p>
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/mohit-salvi-5a38411a5/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://medium.com/@tech-logs" target="_blank">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
 <a href="https://github.com/MohitSalvi16" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:salvimohit08@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 </div>
@@ -128,19 +132,19 @@ LLMs • LangChain • LangGraph • Hugging Face • RAG • Vector Databases �
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mohit-salvi-5a38411a5/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://medium.com/@tech-logs">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
 <a href="https://github.com/MohitSalvi16">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:salvimohit08@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
