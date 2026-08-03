@@ -1,16 +1,31 @@
-## Hi there 👋
+---------------------------------------------------
+Profile Picture
 
-<!--
-**MohitSalvi16/MohitSalvi16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mohit Salvi
+AI/ML Engineer | Full Stack Developer | LLMs
 
-Here are some ideas to get you started:
+===================================================
+README CONTENT APPEARS HERE
+---------------------------------------------------
+👋 Hi, I'm Mohit Salvi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+...
+
+🛠 Tech Stack
+...
+
+📊 GitHub Stats
+
+🏆 Projects
+
+📝 Latest Blogs
+
+📫 Connect
+===================================================
+
+Pinned Repositories
+---------------------------------------------------
+Repo 1    Repo 2    Repo 3
+Repo 4    Repo 5    Repo 6
+---------------------------------------------------
