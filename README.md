@@ -2,8 +2,6 @@
 
 # Hi there, I'm Mohit Salvi
 
-<img src="./assets/binary-profile.png" alt="Mohit Salvi" width="220"/>
-
 ### AI/ML Engineer • Full Stack Developer • LLMs • Cloud Native • Open Source
 
 <p align="center">
