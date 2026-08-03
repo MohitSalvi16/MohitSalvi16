@@ -2,8 +2,6 @@
 
 # Hi there, I'm Mohit Salvi
 
-<img src="./assets/binary-profile.png" alt="Mohit Salvi" width="220"/>
-
 ### AI/ML Engineer • Full Stack Developer • LLMs • Cloud Native • Open Source
 
 <p align="center">
@@ -17,19 +15,19 @@ Passionate about Large Language Models, AI Agents, Kubernetes, Cloud Infrastruct
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mohit-salvi-5a38411a5/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=FFFFFF"/>
 </a>
 
 <a href="https://medium.com/@tech-logs" target="_blank">
-<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=000000&labelColor=FFFFFF"/>
 </a>
 
 <a href="https://github.com/MohitSalvi16" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF"/>
 </a>
 
 <a href="mailto:salvimohit08@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=FFFFFF"/>
 </a>
 
 </p>
@@ -55,25 +53,25 @@ Passionate about Large Language Models, AI Agents, Kubernetes, Cloud Infrastruct
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
 </p>
 
 ### AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 </p>
 
 <p>
@@ -83,7 +81,7 @@ LLMs • LangChain • LangGraph • Hugging Face • RAG • Vector Databases �
 ### DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,linux,git,postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,linux,git,postgres,mysql"/>
 </p>
 
 ---
@@ -132,19 +130,19 @@ LLMs • LangChain • LangGraph • Hugging Face • RAG • Vector Databases �
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mohit-salvi-5a38411a5/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=FFFFFF"/>
 </a>
 
 <a href="https://medium.com/@tech-logs">
-<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=000000&labelColor=FFFFFF"/>
 </a>
 
 <a href="https://github.com/MohitSalvi16">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF"/>
 </a>
 
 <a href="mailto:salvimohit08@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=FFFFFF"/>
 </a>
 
 </p>
