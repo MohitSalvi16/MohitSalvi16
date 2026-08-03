@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Mohit Salvi 👋
+# Hi there, I'm Mohit Salvi
+
+<img src="./assets/binary-profile.png" alt="Mohit Salvi" width="220"/>
 
 ### AI/ML Engineer • Full Stack Developer • LLMs • Cloud Native • Open Source
 
@@ -34,19 +36,19 @@ Passionate about Large Language Models, AI Agents, Kubernetes, Cloud Infrastruct
 
 ---
 
-## 🚀 About Me
+# About Me
 
-- 🤖 AI/ML Engineer focused on **LLMs, AI Agents, RAG, and Generative AI**
-- ☁️ Building **cloud-native applications** using Kubernetes, Docker, AWS, and modern DevOps practices
-- 💻 Experienced in **Python, React, TypeScript, Node.js, FastAPI, and PostgreSQL**
-- 🛠️ Passionate about designing scalable AI-powered applications and developer tools
-- 🌱 Currently exploring **LangGraph, MCP, Multi-Agent Systems, and Production AI**
-- ✍️ Technical writer sharing knowledge on AI, Kubernetes, and System Design through Medium
-- ❤️ Open Source Contributor who enjoys building tools that help developers
+- AI/ML Engineer focused on **LLMs, AI Agents, RAG, and Generative AI**
+- Building **cloud-native applications** using Kubernetes, Docker, AWS, and modern DevOps practices
+- Experienced in **Python, React, TypeScript, Node.js, FastAPI, and PostgreSQL**
+- Passionate about designing scalable AI-powered applications and developer tools
+- Currently exploring **LangGraph, MCP, Multi-Agent Systems, and Production AI**
+- Technical writer sharing knowledge on AI, Kubernetes, and System Design through Medium
+- Open Source Contributor who enjoys building tools that help developers
 
 ---
 
-## 🛠️ Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -84,7 +86,7 @@ LLMs • LangChain • LangGraph • Hugging Face • RAG • Vector Databases �
 
 ---
 
-## 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 
@@ -100,18 +102,18 @@ LLMs • LangChain • LangGraph • Hugging Face • RAG • Vector Databases �
 
 ---
 
-## 🏆 Featured Projects
+# Featured Projects
 
-- 🚀 **SynergyRCA** — AI-powered Kubernetes Root Cause Analysis using LLMs
-- 💬 **LLM Chat Application** — RAG-powered chatbot with LangChain
-- 🔧 **Quay Tag Parameter Plugin** — Official Jenkins Plugin
-- 📄 **AI Resume Reviewer**
-- 🤖 **n8n AI Automation Workflows**
-- 🛠️ **Developer Tools & Utilities**
+- **SynergyRCA** — AI-powered Kubernetes Root Cause Analysis using LLMs
+- **LLM Chat Application** — RAG-powered chatbot with LangChain
+- **Quay Tag Parameter Plugin** — Official Jenkins Plugin
+- **AI Resume Reviewer**
+- **n8n AI Automation Workflows**
+- **Developer Tools & Utilities**
 
 ---
 
-## ✍️ Latest Articles
+# Latest Articles
 
 - Evaluation of Fine-Tuned TinyLlama on Kubernetes Instructions
 - NGINX Explained Simply: The Web Server That Powers the Internet
@@ -119,11 +121,11 @@ LLMs • LangChain • LangGraph • Hugging Face • RAG • Vector Databases �
 - LangGraph Tutorial
 - System Design Articles
 
-➡️ **Read more:** https://medium.com/@tech-logs
+**Read more:** https://medium.com/@tech-logs
 
 ---
 
-## 🤝 Connect With Me
+# Connect With Me
 
 <p align="center">
 
@@ -151,6 +153,6 @@ LLMs • LangChain • LangGraph • Hugging Face • RAG • Vector Databases �
 
 > **"The best way to predict the future is to build it."**
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+*Thanks for visiting my profile. Feel free to explore my repositories and connect with me.*
 
 </div>
