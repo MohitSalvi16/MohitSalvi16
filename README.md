@@ -88,7 +88,7 @@ LLMs • LangChain • LangGraph • Hugging Face • RAG • Vector Databases �
 <!-- GitHub Stats -->
 ## 📊 GitHub
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MohitSalvi16&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MohitSalvi16&theme=github-dark&hide_border=true" />
 </p>
 ---
 
