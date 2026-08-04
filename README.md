@@ -88,17 +88,7 @@ LLMs • LangChain • LangGraph • Hugging Face • RAG • Vector Databases �
 <!-- GitHub Stats -->
 ## 📊 GitHub
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohitSalvi16&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohitSalvi16&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohitSalvi16&theme=github-dark&hide_border=true" />
-</p>
+<p align="center"> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohitSalvi16&theme=github-dark&hide_border=true"/> </p>
 
 ---
 
