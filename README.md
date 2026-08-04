@@ -86,27 +86,18 @@ LLMs • LangChain • LangGraph • Hugging Face • RAG • Vector Databases �
 
 ---
 <!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MohitSalvi16&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=MohitSalvi16&theme=github-dark&hide_border=true"
-    height="165"
-    alt="GitHub Streak"
-  />
+  <img src="https://komarev.com/ghpvc/?username=MohitSalvi16&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitSalvi16&layout=compact&theme=github_dark&hide_border=true"
-    height="165"
-    alt="Top Languages"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=MohitSalvi16&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohitSalvi16&theme=github-dark&hide_border=true" />
 </p>
 
 ---
