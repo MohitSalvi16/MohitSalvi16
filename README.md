@@ -93,7 +93,7 @@ LLMs • LangChain • LangGraph • Hugging Face • RAG • Vector Databases �
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohitSalvi16&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohitSalvi16&theme=github_dark" />
 </p>
 
 <p align="center">
